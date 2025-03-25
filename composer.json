@@ -1,5 +1,5 @@
 {
-  "name": "Teelah/AsyncTask",
+  "name": "teelah/async-task",
   "description": "Biblioteca para execução de tarefas assíncronas em PHP.",
   "type": "library",
   "license": "MIT",
