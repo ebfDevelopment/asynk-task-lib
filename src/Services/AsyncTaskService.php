@@ -1,6 +1,6 @@
 <?php
 
-namespace AsyncTaskLib\Controllers;
+namespace Teelah\AsyncTask\Services;
 
 class AsyncTaskService {
 

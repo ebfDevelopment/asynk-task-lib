@@ -1,6 +1,6 @@
 <?php
 
-namespace AsyncTaskLib\Models;
+namespace Teelah\AsyncTask\Models;
 
 class Scripts {
     public function enviarPostAssincrono($param1, $param2) {

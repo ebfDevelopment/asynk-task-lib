@@ -3,7 +3,7 @@
   "description": "Biblioteca para execução de tarefas assíncronas em PHP.",
   "type": "library",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "Edivan Fontes",
@@ -12,7 +12,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Teelah\\AsyncTask\\" : "src"
+      "Teelah\\AsyncTask\\" : "src/"
     }
   },
   "require": {

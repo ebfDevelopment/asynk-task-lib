@@ -1,8 +1,8 @@
 <?php
 
-namespace AsyncTaskLib\Async;
+namespace Teelah\AsyncTask\Async;
 
-use AsyncTaskLib\Models\Scripts;
+use Teelah\AsyncTask\Models\Scripts;
 
 class ProcessRequest
 {
